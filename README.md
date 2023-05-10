@@ -1,6 +1,11 @@
 # 💫 About Me:
-Urbanclub, an artist web app.<br>Web Development.<br>Creating New Solutions.<br>Mockups, Advanced CSS & Typescript.<br>the whole world of robotics and electhronics.<br> i love mate, and will always love mate.
 
+🔭 I’m currently working on Urbanclub, an artist web app.<br>
+👯 I’m looking to collaborate on Web Development.<br>
+🤝 I’m looking for help with Creating New Solutions.<br>
+🌱 I’m currently learning Mockups, Advanced CSS & Typescript.<br>
+💬 Ask me about the whole world of robotics and electhronics.<br>
+⚡ Fun fact i love mate, and will always love mate.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@unodel2001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/oscar-carlos-alhuay-ramirez-3a5b73196/) 
