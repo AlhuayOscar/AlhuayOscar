@@ -1,4 +1,4 @@
-# Hey! It's me Oscar :)
+Hey! It's me #Oscar :)
 # 💫 About Me:
 
 🔭 I’m currently working on Urbanclub, an artist web app.<br>
