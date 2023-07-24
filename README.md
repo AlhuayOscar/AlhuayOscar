@@ -1,4 +1,4 @@
-# Hey! It's me... Oscar :)
+# Hey! It's me... Oscar c:
 
 # 💫 About Me:
 
