@@ -2,10 +2,10 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on Mexplorer! , a tourism web app.<br>
-👯 I’m looking to collaborate on Web Development.<br>
-🤝 I’m looking for help with Creating New Solutions.<br>
-🌱 I’m currently learning Mockups, Advanced CSS & Typescript.<br>
+🔭 I’m currently working on CtoP! , Our Company web app. 💛<br>
+👯 I’m looking to collaborate on Web Development & Mobile Development.<br>
+🤝 I’m looking for help with Good Practices.<br>
+🌱 I’m currently learning React Native, Next.js 13 & Typescript.<br>
 💬 Ask me about the whole world of robotics and electhronics.<br>
 🧉 Fun fact i love "mate", and will always love "mate".
 
