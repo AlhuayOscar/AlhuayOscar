@@ -1,6 +1,6 @@
-# Hey! It's me... Oscar c:
+# Hey, It's me, Oscar!
 
-# 💫 About Me:
+# 💫 About Me c:
 
 🔭 I’m currently working on CtoP! , Our Company web app. 💛<br>
 👯 I’m looking to collaborate on Web Development & Mobile Development.<br>
