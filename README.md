@@ -2,7 +2,7 @@
 
 # 💫 About Me c:
 
-🔭 I’m currently working on LLA APP! , Argentinian Election Inspection App. 🦁💜<br>
+🔭 I’m currently working on various freelance projects for Chaco, Argentina/ Bogotá, Colombia / Santiago, Chile / Etc. 💛<br>
 👯 I’m looking to collaborate on Web Development & Mobile Development.<br>
 🤝 I’m looking for help with Good Practices.<br>
 🌱 I’m currently learning React Native, Next.js 13 & Typescript.<br>
