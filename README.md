@@ -2,11 +2,11 @@
 
 # 💫 About Me c:
 
-🔭 I’m currently working on various freelance projects for Chaco, Argentina/ Bogotá, Colombia / Santiago, Chile / Etc. 💛<br>
-👯 I’m looking to collaborate on Web Development & Mobile Development.<br>
+🔭 I’m currently working on various freelance projects for Chaco, Argentina/ Bogotá, Colombia / Santiago, Chile / 💛<br>
+👯 I’m looking to collaborate on Web Development, Mobile Development, Videogames Modding (Tarkov/ProjectZomboid).<br>
 🤝 I’m looking for help with Good Practices.<br>
-🌱 I’m currently learning React Native, Next.js 13 & Typescript.<br>
-💬 Ask me about the whole world of robotics and electhronics.<br>
+🌱 I’m currently learning React Native, Next.js 14 & Typescript.<br>
+💬 Ask me about the whole world of robotics and electronics.<br>
 🧉 Fun fact i love "mate", and will always love "mate".
 
 ## 🌐 Socials:
